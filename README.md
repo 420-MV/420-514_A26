@@ -45,8 +45,8 @@ jupyter lab
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   ├── 01_demarrage_python_pandas.ipynb
-│   ├── 02_demarrage_python_pandas.ipynb
+│   ├── 01_intro_numpy.ipynb
+│   ├── 02_intro_pandas.ipynb
 │   ├── 03_profilage_des_donnees.ipynb
 │   ├── 04_nettoyage_valeurs_manquantes_doublons.ipynb
 │   ├── 05_valeurs_aberrantes.ipynb
