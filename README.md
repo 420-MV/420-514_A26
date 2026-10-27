@@ -59,6 +59,7 @@ jupyter lab
 ├── data/
 │   ├── raw/            # données brutes, jamais modifiées
 │   ├── processed/      # données nettoyées produites par les carnets
+│   ├── README.md       # expliquer les colonnes des datasets 
 └── images/             # schémas utilisés dans les carnets
 ```
 
